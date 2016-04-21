@@ -41,7 +41,7 @@ ale ta wartosc wpisywana jest do inta dziesietnie, tzn.
 itd.
 Następnie dla danego n sprawdzane jest, czy n dzieli każdą kolejną liczbę binarną.
 Jeśli tak, jest to szukane k.
-Sprawdzanie wykonywane jest do liczby binarnej o zapisie "1000000".
+Sprawdzanie wykonywane jest do liczby binarnej o zapisie "1000000", bo większych liczb program nie wyswietla.
 */
 
 unsigned long long int dec2bin(unsigned long long int n) 
